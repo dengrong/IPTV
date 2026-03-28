@@ -34,7 +34,7 @@
 |[ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)|https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8|IPV4|❌|✔️|
 |[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u|IPV4|✔️|✔️|
 |[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u|IPV6|✔️|✔️|
-|[传说引导页](https://oooo.cc.ua/)|http://tttttt.tttttttttt.top/jk.txt|IPV4|❌|❌|
+|~~[传说引导页](https://oooo.cc.ua/)~~|http://tttttt.tttttttttt.top/jk.txt|IPV4|❌|❌|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|✔️|✔️|
 |~~[joevess](https://github.com/joevess/IPTV)~~|https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u|IPV4|❌|✔️|
 |~~[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")~~|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
